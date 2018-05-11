@@ -1,0 +1,9 @@
+2018/05/09-14:42:51.248 6330 Reusing MANIFEST /home/ryan/.config/google-chrome/Default/IndexedDB/https_forums.freebsd.org_0.indexeddb.leveldb/MANIFEST-000001
+2018/05/09-14:42:52.876 6332 Current memtable full; waiting...
+2018/05/09-14:42:52.876 6344 Level-0 table #5: started
+2018/05/09-14:42:52.882 6344 Level-0 table #5: 448 bytes OK
+2018/05/09-14:42:52.885 6344 Delete type=0 #3
+2018/05/09-14:42:52.886 6344 Level-0 table #7: started
+2018/05/09-14:42:52.886 6344 Level-0 table #7: 0 bytes OK
+2018/05/09-14:42:52.889 6344 Delete type=0 #4
+2018/05/09-14:42:52.889 6344 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

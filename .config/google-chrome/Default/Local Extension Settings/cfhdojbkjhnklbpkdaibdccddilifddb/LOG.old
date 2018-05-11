@@ -1,0 +1,20 @@
+2018/05/09-14:05:37.135 1117 Reusing MANIFEST /home/ryan/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/05/09-14:05:37.135 1117 Recovering log #25
+2018/05/09-14:05:37.136 1117 Reusing old log /home/ryan/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000025.log 
+2018/05/09-14:06:38.066 1591 Level-0 table #29: started
+2018/05/09-14:06:38.108 1591 Level-0 table #29: 3297388 bytes OK
+2018/05/09-14:06:38.112 1591 Delete type=0 #25
+2018/05/09-14:06:38.114 1591 Compacting 4@0 + 2@1 files
+2018/05/09-14:06:38.169 1591 Generated table #30@0: 1 keys, 3296532 bytes
+2018/05/09-14:06:38.173 1591 Generated table #31@0: 2 keys, 339 bytes
+2018/05/09-14:06:38.173 1591 Compacted 4@0 + 2@1 files => 3296871 bytes
+2018/05/09-14:06:38.176 1591 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/05/09-14:06:38.176 1591 Delete type=2 #19
+2018/05/09-14:06:38.176 1591 Delete type=2 #21
+2018/05/09-14:06:38.176 1591 Delete type=2 #18
+2018/05/09-14:06:38.177 1591 Delete type=2 #29
+2018/05/09-14:06:38.177 1591 Delete type=2 #26
+2018/05/09-14:06:38.177 1591 Delete type=2 #24
+2018/05/09-14:07:26.995 1591 Level-0 table #33: started
+2018/05/09-14:07:27.064 1591 Level-0 table #33: 3296773 bytes OK
+2018/05/09-14:07:27.071 1591 Delete type=0 #28

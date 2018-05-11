@@ -1,0 +1,252 @@
+{
+   "checksum": "4fe20521ca44eea242a4ce42632602c1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [  ],
+               "date_added": "13170373168225493",
+               "date_modified": "13170373168225493",
+               "id": "25",
+               "name": "Links",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [  ],
+               "date_added": "13170373168225499",
+               "date_modified": "13170373168225499",
+               "id": "26",
+               "name": "Links for United States",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [  ],
+               "date_added": "13170373168225504",
+               "date_modified": "13170373168225504",
+               "id": "27",
+               "name": "NYSMITH WEBSITE APPLICATIONS",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            } ],
+            "date_added": "13170373168223433",
+            "date_modified": "13170373168223434",
+            "id": "10",
+            "name": "Nysmith Bookmarks",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13137890776906378",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13163581007496506"
+            },
+            "name": "Free Automated Malware Analysis Service - powered by VxStream Sandbox",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.hybrid-analysis.com/"
+         }, {
+            "children": [ {
+               "date_added": "13150272147019102",
+               "id": "13",
+               "meta_info": {
+                  "last_visited_desktop": "13163587180957583"
+               },
+               "name": "myHomework - Home",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://myhomeworkapp.com/home"
+            }, {
+               "date_added": "13150272147020311",
+               "id": "14",
+               "meta_info": {
+                  "last_visited_desktop": "13170243686404063"
+               },
+               "name": "My Drive - Google Drive",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/0/my-drive"
+            }, {
+               "date_added": "13150272147021552",
+               "id": "15",
+               "meta_info": {
+                  "last_visited_desktop": "13170244340450441"
+               },
+               "name": "Inbox – rmccrystal21@seaburyhall.org",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://inbox.google.com/u/0/?pli=1"
+            }, {
+               "date_added": "13150272147022528",
+               "id": "16",
+               "meta_info": {
+                  "last_visited_desktop": "13150761655593618"
+               },
+               "name": "World History 9 D Block 2017-2018",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://classroom.google.com/c/NzAzNjAyMzM3Mlpa"
+            }, {
+               "date_added": "13150272147023416",
+               "id": "17",
+               "meta_info": {
+                  "last_visited_desktop": "13151712388863299"
+               },
+               "name": "Homework",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://openvellum.ecollege.com/course.html?courseId=14182201&OpenVellumHMAC=6b27662b649c2d457207a5db57ecc87f#10010"
+            }, {
+               "date_added": "13150272147024309",
+               "id": "18",
+               "meta_info": {
+                  "last_visited": "13151614384573605",
+                  "last_visited_desktop": "13170149268269181"
+               },
+               "name": "Student : (1) My Day",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://seaburyhall.myschoolapp.com/app/student#studentmyday/schedule"
+            }, {
+               "date_added": "13150272147025165",
+               "id": "19",
+               "meta_info": {
+                  "last_visited": "13150339659327641",
+                  "last_visited_desktop": "13168940325941175"
+               },
+               "name": "Student : (1) My Day",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://seaburyhall.myschoolapp.com/app/student#studentmyday/assignment-center"
+            }, {
+               "date_added": "13150272147025996",
+               "id": "20",
+               "meta_info": {
+                  "last_visited_desktop": "13168418372307691"
+               },
+               "name": "DAILY Guide Honors Biology 2017 .docx - Google Docs",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/1vk7bj601qTvHqSG4VMduq1tHD5jDc8pzFZTkCinz9QY/edit"
+            }, {
+               "date_added": "13152758922468471",
+               "id": "21",
+               "meta_info": {
+                  "last_visited_desktop": "13170284276485395"
+               },
+               "name": "Inbox – rmccrystal21@seaburyhall.org",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://inbox.google.com/u/1/"
+            }, {
+               "date_added": "13164072484020024",
+               "id": "22",
+               "meta_info": {
+                  "last_visited_desktop": "13164072484020024"
+               },
+               "name": "MPGH - MultiPlayer Game Hacking & Cheats",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.mpgh.net/forum/index.php"
+            }, {
+               "date_added": "13168431407738954",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13168431407739616"
+               },
+               "name": "Ecological Relationships - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=rNjPI84sApQ"
+            }, {
+               "date_added": "13170367762262798",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13170367762263819"
+               },
+               "name": "Are mad | Spanish Translator",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.spanishdict.com/translate/are%20mad"
+            } ],
+            "date_added": "13170373168224555",
+            "date_modified": "13170373168224555",
+            "id": "12",
+            "name": "Seabury Homework",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13170373152114257",
+         "date_modified": "13137890776906378",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13170373152114264",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "3",
+      "synced": {
+         "children": [ {
+            "date_added": "13105071839634311",
+            "id": "5",
+            "name": "New tab",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         }, {
+            "date_added": "13139290631129928",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13149578187351418"
+            },
+            "name": "Our security auditor is an idiot. How do I give him the information he wants? - Server Fault",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants"
+         }, {
+            "date_added": "13141787671854983",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13141787671918690",
+               "last_visited_desktop": "13141895552818700"
+            },
+            "name": "Electric Campfire on Spotify",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://open.spotify.com/user/akahendy/playlist/0C7xiAjvGXJg0bc8umC6JA"
+         }, {
+            "date_added": "13146674087668496",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13151445575118142"
+            },
+            "name": "Screetsec/TheFatRat: Thefatrat a massive exploiting tool revealed >> An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can ",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/Screetsec/TheFatRat"
+         }, {
+            "date_added": "13149406038712384",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13149406038715532",
+               "last_visited_desktop": "13152915830250674"
+            },
+            "name": "JSFuck - Write any JavaScript with 6 Characters: []()!+",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.jsfuck.com/"
+         } ],
+         "date_added": "13170373152114265",
+         "date_modified": "13149406038712384",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

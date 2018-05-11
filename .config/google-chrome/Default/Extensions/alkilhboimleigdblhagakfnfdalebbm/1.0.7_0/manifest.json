@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://textcraft.net/"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "textcraft-chromestore-128x128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCa8bGseo5IZHbqNsW6X0dEW7KOWH7gSZdDU4c7GuLZ0Pcc3fT0d8kUUICKrNQxzFAalbEaMyRFRvoOvybUXYVglR/wlY8Pr4y9elX/my2ZEbmH15WxLjtYSnL4QIp+IvaSZU9+uXG1Foe+DKsS8n77XRQlmcrwe38ls2ij+89BqQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.7"
+}
